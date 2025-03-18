@@ -1,4 +1,4 @@
-# Chat with Memory using LangChain & Groq  
+# Chatbot with conversational history using LangChain & Groq  
 
 Welcome to **LangChain Groq Chat** â€“ a chatbot that actually remembers what you say!  
 
@@ -39,5 +39,5 @@ Each session is like a separate chatroom. It remembers things inside but doesnâ€
 
 ### 1. Clone the Project  
 ```sh
-git clone https://github.com/yourusername/langchain-groq-chat.git
-cd langchain-groq-chat
+git clone https://github.com/MeeturiAjay/Chatbot_with_conversational_history
+cd Chatbot_with_conversational_history
