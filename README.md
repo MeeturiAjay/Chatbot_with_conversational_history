@@ -39,8 +39,8 @@ An AI-powered chatbot built with **Streamlit** and **LangChain** that retains co
 
 ### 1️⃣ Clone the Repository
 ```bash
-  git clone https://github.com/yourusername/streamlit-chatbot.git
-  cd streamlit-chatbot
+  git clone https://github.com/MeeturiAjay/Chatbot_with_conversational_history.git
+  cd Chatbot_with_conversational_history
 ```
 
 ### 2️⃣ Install Dependencies
@@ -68,33 +68,6 @@ GROQ_API_KEY=your_api_key_here
 3. Enter a chat title to save and organize conversations.
 4. Type your queries in the text input box and get AI-generated responses.
 5. Access previous chats from the sidebar anytime.
-
----
-
-## 📌 Future Enhancements
-
-- 🔹 **Improve AI Model**: Integrate GPT-4 or fine-tune responses.
-- 🔹 **Dark Mode**: Add theme switch for better accessibility.
-- 🔹 **Export Chat History**: Save conversations as a text or PDF file.
-- 🔹 **Better Styling**: Enhance UI with more animations and layouts.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Added new feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Create a Pull Request.
-
----
-
-## 📝 License
-
-This project is **open-source** and available under the MIT License.
 
 ---
 
