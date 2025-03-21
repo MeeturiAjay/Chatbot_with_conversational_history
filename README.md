@@ -10,13 +10,8 @@ An AI-powered chatbot built with **Streamlit** and **LangChain** that retains co
 ![Home Page](https://raw.githubusercontent.com/MeeturiAjay/Chatbot_with_conversational_history/refs/heads/main/Screenshots/Screenshot%202025-03-21%20152836.png)
 
 ### 💬 Chat Interface
-![Chat Interface](<screenshot_chat.png>)
+![Chat Interface](https://raw.githubusercontent.com/MeeturiAjay/Chatbot_with_conversational_history/refs/heads/main/Screenshots/Screenshot%202025-03-21%20153504.png)
 
-### 📁 Chat History
-![Chat History](<screenshot_chat_history.png>)
-
-### 🎨 Sidebar & Theme
-![Sidebar](<screenshot_sidebar.png>)
 
 ---
 
