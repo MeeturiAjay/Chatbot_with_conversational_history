@@ -8,7 +8,9 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 
 # Load API Key
 load_dotenv()
-groq_api = os.getenv("GROQ_API_KEY")
+# groq_api = os.getenv("GROQ_API_KEY")
+groq_api = st.secrets["GROQ_API_KEY"]
+
 
 # Initialize LLM
 llm = ChatGroq(model="mistral-saba-24b", api_key=groq_api)
