@@ -75,9 +75,8 @@ GROQ_API_KEY=your_api_key_here
 
 For any queries, feel free to reach out:
 
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile/)
+- 📧 Email: meeturiajaykumar.23@gmail.com
+- 💼 LinkedIn: [Profile](https://www.linkedin.com/in/meeturi-ajay-kumar-a02743248/)
 
 Happy coding! 🚀
 
