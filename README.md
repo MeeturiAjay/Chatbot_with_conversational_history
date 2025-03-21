@@ -5,7 +5,7 @@ An AI-powered chatbot built with **Streamlit** and **LangChain** that retains co
 ---
 
 # Have the Demo!💻
-[![Application Demo](meeturis-conversational-chatbot-with-history.streamlit.app/)](https://meeturis-conversational-chatbot-with-history.streamlit.app/)
+💻[![Application Demo](meeturis-conversational-chatbot-with-history.streamlit.app/)](https://meeturis-conversational-chatbot-with-history.streamlit.app/)
 
 ## 📸 Screenshots
 
